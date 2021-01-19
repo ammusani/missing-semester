@@ -1,0 +1,1 @@
+find . -name "*.html" | xargs -d '\n' tar -cf out.tar
